@@ -24,7 +24,7 @@ function Hero(props) {
           </p>
         </div>
       </div>
-      <div className="flex justify-center items-center gap-10 flex-wrap mb-8">
+      <div className="flex justify-center items-center gap-10 flex-wrap mb-8 ">
         <Link to={'../breakingBad'}>
           <ButtonChanger title="Breaking Bad" />
         </Link>
